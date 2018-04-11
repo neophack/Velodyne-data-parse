@@ -1,0 +1,7 @@
+﻿  main.cpp
+f:\program files (x86)\microsoft visual studio 2015\projects\kitti_velodyne_parser\kitti_velodyne_parser\main.cpp(76): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\kitti_velodyne_parser\kitti_velodyne_parser\main.cpp(83): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\kitti_velodyne_parser\kitti_velodyne_parser\main.cpp(75): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  KITTI_Velodyne_Parser.vcxproj -> F:\Program Files (x86)\Microsoft visual studio 2015\Projects\KITTI_Velodyne_Parser\x64\Debug\KITTI_Velodyne_Parser.exe
+  KITTI_Velodyne_Parser.vcxproj -> F:\Program Files (x86)\Microsoft visual studio 2015\Projects\KITTI_Velodyne_Parser\x64\Debug\KITTI_Velodyne_Parser.pdb (Full PDB)

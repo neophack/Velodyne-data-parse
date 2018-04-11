@@ -1,0 +1,2 @@
+readpath_=D:\KITTI velodynedata\2011_09_26_drive_0056_sync\2011_09_26\2011_09_26_drive_0056_sync\velodyne_points\data
+savepath_=D:\KITTI velodynedata\2011_09_26_drive_0056_sync\2011_09_26\2011_09_26_drive_0056_sync\velodyne_points\xyzi

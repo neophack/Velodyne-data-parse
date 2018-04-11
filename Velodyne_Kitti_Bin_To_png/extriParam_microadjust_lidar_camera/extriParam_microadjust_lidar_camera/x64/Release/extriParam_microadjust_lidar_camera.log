@@ -1,0 +1,66 @@
+﻿  mian.cpp
+F:\Program Files\opencv\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Program Files\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Program Files\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Program Files\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\program files\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+F:\Program Files\opencv\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mvp.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+mian.cpp(225): warning C4309: “=”: 截断常量值
+mian.cpp(228): warning C4552: “+”: 运算符不起任何作用；应输入带副作用的运算符
+mian.cpp(216): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+mian.cpp(470): warning C4305: “参数”: 从“double”到“const float”截断
+mian.cpp(471): warning C4305: “参数”: 从“double”到“const float”截断
+mian.cpp(472): warning C4305: “参数”: 从“double”到“const float”截断
+mian.cpp(474): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+mian.cpp(475): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+mian.cpp(476): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+mian.cpp(478): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(490): warning C4305: “+=”: 从“double”到“float”截断
+mian.cpp(491): warning C4305: “+=”: 从“double”到“float”截断
+mian.cpp(492): warning C4305: “+=”: 从“double”到“float”截断
+mian.cpp(493): warning C4305: “-=”: 从“double”到“float”截断
+mian.cpp(494): warning C4305: “-=”: 从“double”到“float”截断
+mian.cpp(495): warning C4305: “-=”: 从“double”到“float”截断
+mian.cpp(498): warning C4305: “+=”: 从“double”到“float”截断
+mian.cpp(499): warning C4305: “+=”: 从“double”到“float”截断
+mian.cpp(500): warning C4305: “+=”: 从“double”到“float”截断
+mian.cpp(501): warning C4305: “-=”: 从“double”到“float”截断
+mian.cpp(502): warning C4305: “-=”: 从“double”到“float”截断
+mian.cpp(503): warning C4305: “-=”: 从“double”到“float”截断
+mian.cpp(528): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+mian.cpp(559): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+mian.cpp(588): warning C4305: “参数”: 从“double”到“float”截断
+mian.cpp(612): warning C4267: “=”: 从“size_t”转换到“int32_t”，可能丢失数据
+mian.cpp(632): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+mian.cpp(634): warning C4305: “初始化”: 从“double”到“float”截断
+mian.cpp(645): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+mian.cpp(654): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+mian.cpp(664): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+mian.cpp(611): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+mian.cpp(824): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(825): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(826): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(827): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(828): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(829): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(830): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(831): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(832): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(834): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(835): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(836): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(843): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(845): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(847): warning C4305: “=”: 从“double”到“float”截断
+mian.cpp(848): warning C4305: “=”: 从“double”到“float”截断
+  正在生成代码
+  16 of 1445 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  extriParam_microadjust_lidar_camera.vcxproj -> F:\Program Files (x86)\Microsoft visual studio 2015\Projects\extriParam_microadjust_lidar_camera\x64\Release\extriParam_microadjust_lidar_camera.exe
+  extriParam_microadjust_lidar_camera.vcxproj -> F:\Program Files (x86)\Microsoft visual studio 2015\Projects\extriParam_microadjust_lidar_camera\x64\Release\extriParam_microadjust_lidar_camera.pdb (Full PDB)

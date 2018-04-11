@@ -1,0 +1,3 @@
+cameraPath= ./data/camera 
+liadrPath = ./data/lidar
+ParamPath = NULL

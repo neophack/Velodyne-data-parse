@@ -1,0 +1,52 @@
+﻿  mian.cpp
+f:\program files\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\program files\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\program files\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\program files\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\program files\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\program files\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mvp.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(160): warning C4305: “参数”: 从“double”到“const float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(161): warning C4305: “参数”: 从“double”到“const float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(162): warning C4305: “参数”: 从“double”到“const float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(164): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(165): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(166): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(168): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(185): warning C4305: “+=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(186): warning C4305: “+=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(187): warning C4305: “+=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(188): warning C4305: “-=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(189): warning C4305: “-=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(190): warning C4305: “-=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(193): warning C4305: “+=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(194): warning C4305: “+=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(195): warning C4305: “+=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(196): warning C4305: “-=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(197): warning C4305: “-=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(198): warning C4305: “-=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(224): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(260): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(279): warning C4305: “参数”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(323): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(324): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(396): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(397): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(398): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(399): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(400): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(401): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(402): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(403): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(404): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(406): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(407): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(408): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(415): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(417): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(419): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\microsoft visual studio 2015\projects\extriparam_microadjust_lidar_camera\extriparam_microadjust_lidar_camera\mian.cpp(420): warning C4305: “=”: 从“double”到“float”截断
+  Config.cpp
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“freeglutd.lib”
