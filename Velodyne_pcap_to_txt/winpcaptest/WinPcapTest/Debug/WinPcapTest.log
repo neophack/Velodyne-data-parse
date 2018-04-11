@@ -1,0 +1,43 @@
+﻿  main.cpp
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(300): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(301): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(303): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(304): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(306): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(308): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(309): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(312): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(313): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(316): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(317): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(323): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(326): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(327): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(328): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(335): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(336): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(339): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(384): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(385): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(387): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(388): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(390): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(392): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(393): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(395): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(396): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(398): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(399): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(403): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(405): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(408): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(409): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(410): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(418): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(419): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(422): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+f:\program files (x86)\microsoft visual studio 2015\projects\winpcaptest\winpcaptest\main.cpp(130): warning C4715: “correctionLoad”: 不是所有的控件路径都返回值
+  WinPcapTest.vcxproj -> F:\Program Files (x86)\Microsoft visual studio 2015\Projects\winpcaptest\Debug\WinPcapTest.exe
+  WinPcapTest.vcxproj -> F:\Program Files (x86)\Microsoft visual studio 2015\Projects\winpcaptest\Debug\WinPcapTest.pdb (Full PDB)
